@@ -6,8 +6,6 @@ PDF Bill Splitter is a C#.NET console application designed to simplify the task 
 
 - **Smart PDF Splitting**: PDF Bill Splitter can intelligently split PDFs based on predefined keywords. These keywords are defined in JSON files, allowing you to customize the splitting criteria. An example of a template for intelligent splitting is provided in the `jsonTypes` folder.
 
-- **Page-by-Page Splitting**: If you prefer a more straightforward approach, you can opt for page-by-page splitting. This mode is perfect for scenarios where bills are not structured by account numbers or keywords.
-
 - **User-Friendly UI**: PDF Bill Splitter comes with a simple and intuitive user interface. Just open the executable file, and the UI will guide you through the process.
 
 ## How to Use
